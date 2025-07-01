@@ -199,7 +199,7 @@ tl.add(animateNotes(notesG1)).add(animateNotes(notesG2), ">0.05").add(animateNot
     animation.animate();
   })();
 
-  document.addEventListener("click", function()
-{
-    window.location="./main.html";
-});
+//   document.addEventListener("click", function()
+// {
+//     window.location="./main.html";
+// });
